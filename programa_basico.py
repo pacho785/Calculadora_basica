@@ -4,4 +4,5 @@ while bucle:
                     A.Suma 
                     B.Resta
                     C.Mltiplicacion
-                    D.Division: """))
+                    D.Division
+                    X.salir"""))
