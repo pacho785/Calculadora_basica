@@ -38,6 +38,8 @@ while bucle:
         print(f"El resultado de la division es: {num7*num8}")
     elif op=="X":
 
-        print("SALIENDO DEL PROGRAMA")
+        print("SALIENDO DEL PROGRAMA...")
+        bucle = False
+        
     else:
         print("Opcion incorrecta vuelva a intentarlo")
